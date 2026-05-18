@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+.env
+
+# Editors
+.vscode/
+.idea/
+.DS_Store
+
+# Gradio
+flagged/
+gradio_cached_examples/
+
+# Local model files (we never bundle weights — Ollama manages them)
+*.gguf
+*.bin

@@ -1,0 +1,50 @@
+MERCY GENERAL HOSPITAL
+1247 Sample Drive
+Springfield, IL 62701
+(555) 010-4400
+
+EXPLANATION OF BENEFITS — THIS IS NOT A BILL
+
+Patient: DOE, JANE Q
+Member ID: XXXX-XX-4471
+Claim #: 2026-MGH-0894123
+Service date(s): 03/14/2026 – 03/16/2026
+Statement date: 04/02/2026
+
+CLAIM SUMMARY
+--------------------------------------------------------------
+Total billed charges ............................. $14,872.40
+Plan discount / contractual adjustment ........... -$ 9,118.62
+Allowed amount ................................... $ 5,753.78
+Plan payment ..................................... $ 4,602.86
+Patient responsibility ........................... $ 1,150.92
+--------------------------------------------------------------
+
+PATIENT RESPONSIBILITY BREAKDOWN
+   Deductible applied ............................ $   450.00
+   Coinsurance (20%) ............................. $   700.92
+   Copay ......................................... $     0.00
+   Non-covered services .......................... $     0.00
+
+REMARK CODES
+   CO-45  Charge exceeds fee schedule/maximum allowable
+   PR-2   Coinsurance amount
+   PR-1   Deductible amount
+
+PROVIDER: Mercy General Hospital (in-network)
+NETWORK: BlueChoice PPO
+
+NOTE: You may receive a separate bill from the facility for the
+amount shown as "Patient Responsibility." Please pay that bill
+when you receive it. Do NOT pay this Explanation of Benefits.
+
+If you believe this claim was processed incorrectly, you have
+180 days from the statement date above to request an appeal.
+Submit appeals in writing to:
+
+   Member Appeals Unit
+   PO Box 90413
+   Chicago, IL 60690-0413
+
+Questions? Call Member Services at (800) 555-0142
+Hours: Mon–Fri 7am–9pm CT, Sat 8am–5pm CT
