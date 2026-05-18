@@ -102,6 +102,6 @@ Plain Speak is the boring, unglamorous AI product that the people who most need 
 
 ---
 
-**Code:** github.com/&lt;your-handle&gt;/plain-speak  · **Video:** youtu.be/&lt;your-video-id&gt;  · **Live demo:** clone the repo and run `python app.py`
+**Code:** [github.com/&lt;your-handle&gt;/plain-speak](https://github.com/mshanawaz114/plain-speak.git)  · **Video:** https://studio.youtube.com/video/tZIGl869KgY;  · **Live demo:** clone the repo and run `python app.py`
 
 *Word count: ~1,400*
